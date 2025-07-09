@@ -1,6 +1,6 @@
-<p align="center">
-<h2> Hi there, welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2 align="center"> Hi there, welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
+<p>
 I am José Huerta, a web developer focused on building modern, fast, and functional applications using technologies like Vue.js, Express.js, among others. I specialize in developing clean interfaces and scalable systems, paying close attention to detail to deliver solutions that add value to people and businesses. I am currently refining my frontend and backend skills while collaborating on projects that challenge me to grow. I am available for freelance projects or collaborations, committed to delivering clean code, applying best practices, and maintaining continuous learning to stay updated with market requirements.
 </p>
 
@@ -46,9 +46,9 @@ I am José Huerta, a web developer focused on building modern, fast, and functio
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-<h2>🤝 Connect with me!</h2>
+<h2 align="center">🤝 Connect with me!</h2>
 
+<p align="center">
 <a href="mailto:josem.huertab@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EE3535?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
 </a>
