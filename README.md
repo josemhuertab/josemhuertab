@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p>
-I am José Huerta, a web developer focused on building modern, fast, and functional applications using technologies like Vue.js, Express.js, among others. I specialize in developing clean interfaces and scalable systems, paying close attention to detail to deliver solutions that add value to people and businesses. I am currently refining my frontend and backend skills while collaborating on projects that challenge me to grow. I am available for freelance projects or collaborations, committed to delivering clean code, applying best practices, and maintaining continuous learning to stay updated with market requirements.
+I am José Huerta, a web developer focused on building modern, fast, and functional applications using technologies like Vue.js, Express.js, among others. I specialize in developing clean interfaces and scalable systems, paying close attention to detail to deliver solutions that add value to people and businesses. I am currently refining my frontend and backend skills while collaborating on projects that challenge me to grow. I am available for **freelance** projects or **collaborations**, committed to delivering clean code, applying best practices, and maintaining continuous learning to stay updated with market requirements.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
