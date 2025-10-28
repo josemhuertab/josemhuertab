@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p>
-I am José Huerta, a web developer focused on building modern, fast, and functional applications using technologies like Vue.js, Express.js, among others. I specialize in developing clean interfaces and scalable systems, paying close attention to detail to deliver solutions that add value to people and businesses. I am currently refining my frontend and backend skills while collaborating on projects that challenge me to grow. I am available for <b>freelance</b> projects or <b>collaborations</b>, committed to delivering clean code, applying best practices, and maintaining continuous learning to stay updated with market requirements.
+I am José Huerta, a web developer focused on building modern, fast, and functional applications using technologies like Vue.js, Express.js, among others. I specialize in developing clean interfaces and scalable systems, paying close attention to detail to deliver solutions that add value to people and businesses. I am currently refining my frontend skills while collaborating on projects that challenge me to grow. I am available for <b>freelance</b> projects or <b>collaborations</b>, committed to delivering clean code, applying best practices, and maintaining continuous learning to stay updated with market requirements.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -20,9 +20,7 @@ I am José Huerta, a web developer focused on building modern, fast, and functio
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 - 💾 Databases
 
