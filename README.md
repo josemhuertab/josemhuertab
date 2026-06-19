@@ -2,7 +2,7 @@
 
 <p>Frontend developer with fullstack experience, co-founder at SynchroDev. I build production apps with Vue 3, React, and Next.js — from PWAs to desktop apps (Tauri). Currently working on SynchroPOS, a multi-tenant POS system for SMBs. Open to collaborations and freelance work.
 
-Portfolio: jhuerta.vercel.app</p>
+Portfolio: [jhuerta.vercel.app](https://jhuerta.vercel.app/)</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
